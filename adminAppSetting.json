@@ -1,0 +1,16 @@
+{
+  "StyleSheet": "bootstrap",
+  "ShowPlacePrice": true,
+  "ShowOtherExpences": true,
+  "CallDaysToIssue": 0,
+  "Company": "D\u016Fm kurz\u016F a z\u00E1bavy z.s.",
+  "Street": "N\u00E1m\u011Bst\u00ED P\u0159emysla Otakara II.",
+  "PostalCode": "370 01",
+  "City": "\u010Cesk\u00E9 Bud\u011Bjovice",
+  "Country": "\u010Cesk\u00E1 republika",
+  "Phone": "\u002B420 123 456 789",
+  "Email": "email@dumkurzu.local",
+  "LinkMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2495.8173779013114!2d14.47424494024238!3d48.974569322205106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47734fcfa82cc577%3A0xabecd27756b8c499!2sSamsonova%20ka%C5%A1na!5e0!3m2!1scs!2scz!4v1727443934282!5m2!1scs!2scz",
+  "ContactPerson": "V\u00EDtek V\u00FDte\u010Dn\u00FD",
+  "GetAddress": "N\u00E1m\u011Bst\u00ED P\u0159emysla Otakara II., \u010Cesk\u00E9 Bud\u011Bjovice "
+}
